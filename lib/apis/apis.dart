@@ -12,6 +12,7 @@ import 'package:spring_ecommerce_app/screens/all_categories_screen.dart';
 import '../models/category_model.dart';
 
 const String BASE_URL = "http://localhost:8090";
+// const String BASE_URL = "http://10.0.2.2:8090";
 
 Map<String, String> buildHeader() {
   return {
